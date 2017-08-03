@@ -1,0 +1,19 @@
+{
+  "name": "kof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "fix-dropbox-node_modules-symlinks --overwrite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fix-dropbox-node_modules-symlinks": "^0.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
