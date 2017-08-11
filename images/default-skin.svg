@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 264 88">
+  <g>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="18 12 12 12 12 18" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="26 12 32 12 32 18" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="26 32 32 32 32 26" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="18 32 12 32 12 26" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="56 18 62 18 62 12" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="76 18 70 18 70 12" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="76 26 70 26 70 32" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="56 26 62 26 62 32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="108" cy="21" r="8" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="114" x2="120" y1="27" y2="33" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="108" x2="108" y1="18" y2="24" fill="none" stroke="#EBCB2F" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="105" x2="111" y1="21" y2="21" fill="none" stroke="#EBCB2F" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="152" cy="21" r="8" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="158" x2="164" y1="27" y2="33" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="149" x2="155" y1="21" y2="21" fill="none" stroke="#EBCB2F" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="30" x2="14" y1="58" y2="74" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" x2="30" y1="58" y2="74" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="99" x2="119" y1="59" y2="59" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="111 67 119 59 111 51" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <path fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" d="M56,73c0,0-0.3-9,17-9h3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="70,70 76,64 70,58" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="166" x2="146" y1="59" y2="59" fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline fill="none" stroke="#EBCB2F" stroke-width="4" stroke-miterlimit="10" points="154 51 146 59 154 67" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
